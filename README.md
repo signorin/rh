@@ -3,7 +3,7 @@
 
 ## Environments
 - Preview: Preview: https://main--rh--signorin.aem.page/
-- Live: https://main--rh--sigorin.aem.live/
+- Live: https://main--rh--signorin.aem.live/
 
 ## Installation
 
