@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: Preview: https://main--rh--AdobeDevXSC.hlx.page/
-- Live: https://main--rh--AdobeDevXSC.hlx.live/
+- Preview: Preview: https://main--rh--signorin.aem.page/
+- Live: https://main--rh--sigorin.aem.live/
 
 ## Installation
 
